@@ -1,18 +1,18 @@
 
 <img src="https://github.com/tmoonlight/NSmartProxy/raw/master/NSmartProxyNew.png">
 
-[![GitHub release](https://img.shields.io/github/release/tmoonlight/NSmartProxy.svg?logoColor=%21%5BGitHub%20release%5D%28https%3A%2F%2Fimg.shields.io%2Fgithub%2Frelease%2Ftmoonlight%2FNSmartProxy.svg%29)](https://github.com/tmoonlight/NSmartProxy/releases)
-[![GitHub](https://img.shields.io/github/license/tmoonlight/NSmartProxy.svg)](https://github.com/tmoonlight/NSmartProxy/blob/master/LICENSE)
-[![Build Status](https://dev.azure.com/tmoonlight/NSmartProxy/_apis/build/status/tmoonlight.NSmartProxy?branchName=master)](https://dev.azure.com/tmoonlight/NSmartProxy/_build/latest?definitionId=1&branchName=master)
+[![GitHub release](https://img.shields.io/github/release/NSmartProxy/NSmartProxy.svg?logoColor=%21%5BGitHub%20release%5D%28https%3A%2F%2Fimg.shields.io%2Fgithub%2Frelease%2Ftmoonlight%2FNSmartProxy.svg%29)](https://github.com/NSmartProxy/NSmartProxy/releases)
+[![GitHub](https://img.shields.io/github/license/tmoonlight/NSmartProxy.svg)](https://github.com/NSmartProxy/NSmartProxy/blob/master/LICENSE)
+[![Build Status](https://dev.azure.com/NSmartProxy/NSmartProxy/_apis/build/status/tmoonlight.NSmartProxy?branchName=master)](https://dev.azure.com/NSmartProxy/NSmartProxy/_build/latest?definitionId=1&branchName=master)
 
-中文版 | [English](https://github.com/tmoonlight/NSmartProxy/blob/master/README.md)
+中文版 | [English](https://github.com/NSmartProxy/NSmartProxy/blob/master/README.md)
 
 # NSmartProxy
 
 #### 什么是NSmartProxy？<br />
 NSmartProxy是一款免费的内网穿透工具。<br />
-使用中如果有任何问题和建议，可以[点击这里加入Gitter群组](https://gitter.im/tmoonlight/NSmartProxy)和我们一起讨论。
-
+使用中如果有任何问题和建议，可以[点击这里加入Gitter群组](https://gitter.im/NSmartProxy/NSmartProxy)和我们一起讨论。
+官方Q群：813170640
 ## 特点
 1. 跨平台，客户端和服务端均可运行在MacOS，Linux，Windows系统上；<br />
 2. 使用方便，配置简单；<br />
@@ -28,7 +28,7 @@ NSmartProxy包含两个服务程序：<br />
 ## 启动准备
 #### Linux/Windows/MacOS
 1. 安装[.NET Core Runtime](https://dotnet.microsoft.com/download)<br />
-2. 下载最新版本的[NSmartProxy](https://github.com/tmoonlight/NSmartProxy/releases)
+2. 下载最新版本的[NSmartProxy](https://github.com/NSmartProxy/NSmartProxy/releases)
 #### Docker
 * 如果当前机器上已经有了docker运行环境，则无需安装运行时，直接拉取镜像即可运行 ：
 ```
@@ -85,7 +85,7 @@ NSmartProxy支持各种基于TCP服务的端口映射，下面以mstsc,iis,ftp�
 <img src="https://github.com/tmoonlight/NSmartProxy/raw/master/imgs/servicecn.png">
 
 
-* P.S： 以上是客户端的配置方法，一般情况下，只要用我的免费服务（2017studio.imwork.net）即可进行内网映射了，如果您还想自己搭建NSmartProxy服务端，请参考[这里](https://github.com/tmoonlight/NSmartProxy/blob/master/README_SERVER_CN.md)。
+* P.S： 以上是客户端的配置方法，一般情况下，只要用我的免费服务（2017studio.imwork.net）即可进行内网映射了，如果您还想自己搭建NSmartProxy服务端，请参考[这里](https://github.com/NSmartProxy/NSmartProxy/blob/master/README_SERVER_CN.md)。
 
 ## 使用案例
 以上已经讲述了将内网的服务映射到外网的方法，还有更多有趣的用法等着你发掘：<br />
