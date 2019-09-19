@@ -10,6 +10,7 @@
 
 #### What is NSmartProxy?
 NSmartProxy is a reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.
+Official Q group: 813170640
 
 ## Characteristics
 1. Cross-platform, client and server can run on MacOS, Linux, Windows systems;<br />
