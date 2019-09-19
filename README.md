@@ -28,7 +28,7 @@ NSmartProxy contains two service programs:<br />
 ## Preparation
 #### Linux/Windows/MacOS
 1. Install [.NET Core Runtime](https://dotnet.microsoft.com/download)<br />
-2. Download the latest version of [NSmartProxy](https://github.com/tmoonlight/NSmartProxy/releases)
+2. Download the latest version of [NSmartProxy](https://github.com/NSmartProxy/NSmartProxy/releases)
 #### Docker
 * You can run the nspserver directly without having to install the runtime:
 ```
@@ -76,7 +76,7 @@ NSmartProxy supports various port mappings based on TCP services. The following 
 	Unzip nspclient*.zip and run NSmartProxyWinform.exe:
 <img src="https://github.com/tmoonlight/100lines/raw/master/nsprrunnning_2_en.gif" />
 
-* P.S： The above is the configuration method of the client. In general, you can use the free service (2017studio.imwork.net) to perform intranet mapping. If you want to build the NSmartProxy server yourself, please click [here](https://github.com/tmoonlight/NSmartProxy/blob/master/README_SERVER.md).
+* P.S： The above is the configuration method of the client. In general, you can use the free service (2017studio.imwork.net) to perform intranet mapping. If you want to build the NSmartProxy server yourself, please click [here](https://github.com/NSmartProxy/NSmartProxy/blob/master/README_SERVER.md).
 
 ## Use Cases
 We have already described the method of mapping the services of the intranet to the external network, and there are more interesting usages waiting for you to 
