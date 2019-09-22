@@ -8,7 +8,7 @@ Here is the installation method of NSmartProxy server (Linux, windows, MacOS are
 * First of all, you need a server with a separate IP, the following installation process is performed on this machine:
 #### Linux/Windows/MacOS
 1. Install [.NET Core Environment](https://dotnet.microsoft.com/download)<br />
-2. Download the latest version of [NSmartProxy](https://github.com/tmoonlight/NSmartProxy/releases)
+2. Download the latest version of [NSmartProxy](https://github.com/NSmartProxy/NSmartProxy/releases)
 
 #### Docker
 * You can run the nspserver directly without having to install the runtime. Four sets of ports are required to run the docker image: configuration port, reverse connection port, API service port and consumer port:
