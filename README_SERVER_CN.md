@@ -9,7 +9,7 @@
 * 首先你需要一台具备独立IP的服务器，以下安装过程均在此机器上执行：
 #### Linux/Windows/MacOS
 1.安装[.NET Core环境](https://dotnet.microsoft.com/download)<br />
-2.下载最新版的[NSmartProxy](https://github.com/tmoonlight/NSmartProxy/releases
+2.下载最新版的[NSmartProxy](https://github.com/NSmartProxy/NSmartProxy/releases
 
 #### Docker
 * 无需安装运行时，直接拉取镜像即可运行，运行镜像时需要4组端口：配置端口，反向连接端口，API服务端口，以及使用端口 ：
